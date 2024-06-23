@@ -1,7 +1,7 @@
 node {
     def remote = [:]
     remote.name = 'remote-host'
-    remote.host = '13.233.142.97'
+    remote.host = '15.168.62.82'
     remote.user = 'ubuntu'
     remote.allowAnyHosts = true
 
