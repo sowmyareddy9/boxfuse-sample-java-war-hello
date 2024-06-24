@@ -55,7 +55,7 @@
     </style>
 </head>
 <body>
-    <h1>Master Branch</h1>
+    <h1>QA Branch</h1>
     <h2>Menu</h2>
 
     <div id="menu">
